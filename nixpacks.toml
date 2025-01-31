@@ -2,5 +2,5 @@
 dotnet_sdk_version = "7.0"
 dotnet_runtime_version = "7.0"
 
-[phase.name]
+[phase.setup]
   nixpkgsArchive = 'aa319c6f1e150efc6c21326979d40088c28564a1'
