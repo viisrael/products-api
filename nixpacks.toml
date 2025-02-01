@@ -1,5 +1,0 @@
-[phase.setup]
-nixpkgsArchive = 'aa319c6f1e150efc6c21326979d40088c28564a1'
-
-[build]
-pkgs = ["dotnet-sdk-8.0"]
